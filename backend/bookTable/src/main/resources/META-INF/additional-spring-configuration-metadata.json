@@ -1,0 +1,44 @@
+{
+  "properties": [
+    {
+      "name": "cognito.userPoolId",
+      "type": "java.lang.String",
+      "description": "Description for cognito.userPoolId."
+    },
+    {
+      "name": "cognito.clientId",
+      "type": "java.lang.String",
+      "description": "Description for cognito.clientId."
+    },
+    {
+      "name": "cognito.region",
+      "type": "java.lang.String",
+      "description": "Description for cognito.region."
+    },
+    {
+      "name": "cognito.clientSecret",
+      "type": "java.lang.String",
+      "description": "Description for cognito.clientSecret."
+    },
+    {
+      "name": "aws.s3.bucket",
+      "type": "java.lang.String",
+      "description": "Description for aws.s3.bucket."
+    },
+    {
+      "name": "google.api.key",
+      "type": "java.lang.String",
+      "description": "Description for google.api.key."
+    },
+    {
+      "name": "aws.ses.from-email",
+      "type": "java.lang.String",
+      "description": "Description for aws.ses.from-email."
+    },
+    {
+      "name": "booktable.app.base-url",
+      "type": "java.lang.String",
+      "description": "Description for booktable.app.base-url."
+    }
+  ]
+}
